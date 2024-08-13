@@ -11,7 +11,9 @@
 </p>
 
 <div align="center">
+  
   ![EnzoDPrado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoDPrado&theme=react&hide_border=true)
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,5 +43,7 @@
 
 <!-- Snake Game -->
 <div align="center">
+  
   ![Snake animation](https://github.com/EnzoDPrado/EnzoDPrado/blob/output/github-contribution-grid-snake.svg)
+
 </div>
