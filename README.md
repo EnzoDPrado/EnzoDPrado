@@ -5,11 +5,6 @@
 
 - 🌱 I’m currently learning **SOLID and clean architecture.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/enzo_skr15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enzo_skr15" height="30" width="40" /></a>
-</p>
-
 <div align="center">
   
   ![EnzoDPrado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoDPrado&theme=react&hide_border=true)
