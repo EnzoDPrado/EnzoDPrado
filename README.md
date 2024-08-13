@@ -10,6 +10,8 @@
 <a href="https://instagram.com/enzo_skr15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enzo_skr15" height="30" width="40" /></a>
 </p>
 
+![EnzoDPrado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoDPrado&theme=react&hide_border=true)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
