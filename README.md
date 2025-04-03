@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
 <h3 align="center">Dev node back-end</h3>
 
-- 🔭 I’m currently working on **Pagtel**
+- 🔭 I’m currently working on **SENAI**
 
-- 🌱 I’m currently learning **SOLID and clean architecture.**
+- 🌱 I’m currently learning **Spring Boot**
 
 <div align="center">
   
