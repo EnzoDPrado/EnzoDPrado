@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
-<h3 align="center">Dev node back-end</h3>
+<h3 align="center">Dev node | spring boot back-end</h3>
 
 - 🔭 I’m currently working on **SENAI**
 
